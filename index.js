@@ -17,10 +17,12 @@ function destructivelyRemoveLastKitten(){
 }
 
 function destructivelyRemoveFirstKitten(){
-  return kittens.shift();
+  kittens.shift();
+  return kittens
 }
 
 function appendKitten(name){
-  
   return kittens.concat("Broom")
 }
+
+tryi

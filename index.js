@@ -29,7 +29,7 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  sKitten = ["Arnold"]
+  var sKitten = ["Arnold"]
   return sKitten.concat(kittens)
   
 }

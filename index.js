@@ -8,4 +8,6 @@ function destructivelyAppendKitten(name){
   return kittens.push('Ralph');
 }
 
-console.log(kittens)
+function destructivelyPrependKitten(name){
+  return kittens.shift('Bitch');
+}

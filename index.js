@@ -8,3 +8,5 @@ function destructiveAppendKitten(name){
   
   return kittens.push('Ralph')
 }
+
+console.log(kittens)

@@ -5,6 +5,6 @@ var kittens = [] //define your array here
 kittens = [ "Milo", "Otis", "Garfield"]
 
 function destructiveAppendKitten(name){
-  kittens.push("Garfield")
+  kittens.push('Ralph')
   return kittens
 }

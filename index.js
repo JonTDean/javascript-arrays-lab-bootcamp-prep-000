@@ -28,4 +28,14 @@ function appendKitten(name){
   return kittens.concat("Broom")
 }
 
-tryi
+function prependKitten(name){
+  return kittens.concat(... kittens, )
+}
+
+function removeLastKitten(){
+  
+}
+
+function removeFirstKitten(){
+  
+}

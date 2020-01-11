@@ -9,5 +9,5 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
-  return kittens.shift('Bitch');
+  return kittens.shift('Bob');
 }
